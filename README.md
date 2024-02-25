@@ -1,0 +1,2 @@
+# zrg
+Tea testnet
